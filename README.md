@@ -24,5 +24,5 @@ You as a Data scientist with the bank need to build a neural network based class
 * EstimatedSalary: Estimated salary
 * isActiveMember: Is is a categorical variable which decides whether the customer is active member of the bank or not ( Active member in the sense, using bank products regularly, making transactions etc )
 * Exited : whether or not the customer left the bank within six month. It can take two values
- ** 0=No ( Customer did not leave the bank )
- ** 1=Yes ( Customer left the bank )
+ * 0=No ( Customer did not leave the bank )
+ * 1=Yes ( Customer left the bank )
